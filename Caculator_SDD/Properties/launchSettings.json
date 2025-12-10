@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Caculator_SDD (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Caculator_SDD (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
